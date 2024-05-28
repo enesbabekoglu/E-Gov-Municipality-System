@@ -3,9 +3,9 @@
 // Veritabanı Bağlantı Dosyamız
 
 $dbServerName = "localhost"; // Sunucu IP/Sunucu Makine Adı
-$dbUserName = "enesbabekoglu_lab"; // MySQL Kullanıcı Adı
-$dbPassword = "_M15vx7e3"; // MySQL Kullanıcı Şifresi
-$dbName = "enesbabekoglu_lab"; // Veritabanı Adı
+$dbUserName = "MYSQL KULLANICI ADI BURAYA"; // MySQL Kullanıcı Adı
+$dbPassword = "MYSQL KULLANICI ŞİFRE BURAYA"; // MySQL Kullanıcı Şifresi
+$dbName = "VERİTABANI ADI BURAYA"; // Veritabanı Adı
 
 $mysqli = mysqli_connect($dbServerName, $dbUserName, $dbPassword, $dbName); // Veritabanı Bağlantısı
 
