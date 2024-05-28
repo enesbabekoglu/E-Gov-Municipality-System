@@ -3,7 +3,11 @@ PHP Ajax ve MySQL Kullanılarak Hazırlanmış E-Belediye Sistemi Projesi
 
 ## Proje Demosu
 
-https://enesbabekoglu.com.tr/projeler/belediye
+**Proje:** https://enesbabekoglu.com.tr/projeler/belediye
+
+**Demo Üyeler:** https://enesbabekoglu.com.tr/projeler/belediye/Uyeler.pdf
+
+Demo Üyelerin şifreleri **"demo"** olarak belirlenmiştir.
 
 ## Proje Kurulumu
 - Kurulum dosyalarını indirin
