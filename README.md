@@ -105,6 +105,7 @@ https://enesbabekoglu.com.tr/projeler/belediye
 
     ![image](https://github.com/enesbabekoglu/PHP-Ajax-MySQL-E-Belediye-Sistemi/assets/92182480/f961b2d6-51c5-4963-af2e-df571509e2c6)
     ![image](https://github.com/enesbabekoglu/PHP-Ajax-MySQL-E-Belediye-Sistemi/assets/92182480/8ad48ab0-2964-476f-a72b-76924eaafc4f)
+    ![image](https://github.com/enesbabekoglu/PHP-Ajax-MySQL-E-Belediye-Sistemi/assets/92182480/a3018bbb-07a8-4994-b4b1-a664650cee83)
 
     
 
