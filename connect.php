@@ -1,5 +1,7 @@
 <?php 
 
+error_reporting(0);
+
 // Veritabanı Bağlantı Dosyamız
 
 $dbServerName = "localhost"; // Sunucu IP/Sunucu Makine Adı
