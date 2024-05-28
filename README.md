@@ -1,7 +1,40 @@
 # PHP-Ajax-MySQL-E-Belediye-Sistemi
 PHP Ajax ve MySQL Kullanılarak Hazırlanmış E-Belediye Sistemi Projesi
 
+## Proje Demosu
+
+https://enesbabekoglu.com.tr/projeler/belediye
+
+## Proje Kurulumu
+- Kurulum dosyalarını indirin
+- Dosyaları hosting dizininize yükleyin
+- Yeni bir MySQL veritabanı oluşturun ve dosyalar arasındaki **"Database.sql"** isimli dosyayı içe aktarın
+- Dosyalar arasındaki **"config.php"** dosyasını açın ve veritabanı bilgilerinizi ilgili alanlara girin
+
+## Ek Bilgiler
+- Projenin admin paneli henüz yoktur. Düzenlemeleri veritabanı üzerinden yapabilirsiniz. Sadece son kullanıcı için tasarlanmıştır.
+
+- MySQL Veritabanı üzerinde 26 tablo bulunmaktadır.
+  
+- Proje ücretsiz hazır bir Bootstrap teması olan **"AdminKit Basic"** kullanır.
+  
+  - **AdminKit** : https://demo-basic.adminkit.io
+    
+- Demo verileri (demo üyeler, personeller, mahalleler, borçlar vb.) yapay zeka **ChatGPT** ile simüle edilmiştir.
+  
+- Demo görselleri (personel görselleri, sosyal yardımlar kapak görselleri, modül kapakları vb.) aşağıdaki yapay zekalar ile hazırlanmıştır.
+  
+  - **Freepik Image Generator** : https://www.freepik.com/ai/image-generator
+  - **Ideogram AI** : https://ideogram.ai
+
 ## Proje Ana Özellikleri
+- **Sosyal Yardımlar Başvurusu**
+  - Veritabanından Sosyal_Yardimlar tablosu üzerinden yeni başvuru formları oluşturulabilir. Yardim_Istenen_Girdiler isimli sütuna virgül ile (",") form verileri girilebilir. Örnek girdi ve çıktı aşağıdaki gibi olacaktır.
+
+    Girdi: "SORU1, SORU2 [A, B]"
+    
+    Çıktı: SORU1 = input / SORU2 = select[A, B]
+    
 - **Veritabanından Modül Oluşturma/Düzenleme**
   
   - Modüllere dış veya iç bağlantılar verilebilir.
