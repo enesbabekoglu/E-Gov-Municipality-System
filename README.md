@@ -9,6 +9,12 @@ PHP Ajax ve MySQL Kullanılarak Hazırlanmış E-Belediye Sistemi Projesi
 
 Demo Üyelerin şifreleri **"demo"** olarak belirlenmiştir.
 
+## Proje Tanıtım Videosu
+
+https://youtu.be/DZ1rTM1RA08
+
+[![image](https://github.com/enesbabekoglu/PHP-Ajax-MySQL-E-Belediye-Sistemi/assets/92182480/37441e90-1925-4279-b4fb-13238c1a0fdb)](https://youtu.be/DZ1rTM1RA08)
+
 ## Proje Kurulumu
 - Kurulum dosyalarını indirin
 - Dosyaları hosting dizininize yükleyin
