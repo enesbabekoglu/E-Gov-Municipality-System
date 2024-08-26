@@ -109,9 +109,7 @@ To set up this project on your local environment, follow these steps:
 
     ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/f961b2d6-51c5-4963-af2e-df571509e2c6)
     ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/8ad48ab0-2964-476f-a72b-76924eaafc4f)
-    ![image](https://github.com/enesbabekog
-
-lu/E-Gov-Municipality-System/assets/92182480/a3018bbb-07a8-4994-b4b1-a664650cee83)
+    ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/a3018bbb-07a8-4994-b4b1-a664650cee83)
 
 ## License 📄
 
@@ -223,9 +221,7 @@ Bu projeyi kendi ortamınıza kurmak için aşağıdaki adımları izleyin:
 
   ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/9a87ec1b-36ab-4c75-8d16-7c69ffe252d0)
   ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/829ed9ef-ef56-4b8a-a86b-130ef6bf622c)
-  ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/d8d5530a-2ad
-
-6-4921-a2c1-933a4444d3f6)
+  ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/d8d5530a-2ad6-4921-a2c1-933a4444d3f6)
   ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/456099b8-29ca-4101-962c-0e4463970140)
   ![image](https://github.com/enesbabekoglu/E-Gov-Municipality-System/assets/92182480/53ba34f1-3cbb-4fe4-ad69-19751b63098a)
 
